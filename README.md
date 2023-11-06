@@ -6,29 +6,29 @@
 	```
 	${아이디}/${Week_No}/${문제명}.java
 
-	- 예 : nijesmik/Week02-2/트리와_쿼리.java
+	- 예 : nijesmik/Week02/트리와_쿼리.java
 	```
-	🔥 공백은 `_`로 대체하여 입력해주세요!
+
 2. Commit
 
 	```
-	${태그} : (${Week_No}) ${문제 번호} ${문제명}
+	${태그}(${Week_No}): ${문제명}
 
-	- 예 :	⬆️ Add : (Week02-2) 15681 트리와_쿼리
-		⬆️ Add : (Week02) Programmers 타켓_넘버 
+	- 예 :	⬆️ add(week02): 트리와 쿼리
+		🛠️ fix(week03): 택배 배달과 수거하기
 	```
 	🔥 문제마다 하나씩 커밋 해주세요! (문제 한꺼번에 커밋 금지) <br>
-	🔥 프로그래머스 문제는 `문제 번호` 대신 `Programmers`로 커밋
+	🔥 영어는 모두 소문자로 작성
 
 	|태그|설명|
 	|---|---|
-	| ⬆️ Add | 코드 제출 |
-	| 🛠️ Fix | 틀린 부분 수정 |
-	| 🔨 Refactor | 코드 리팩토링 |
-	| ✏️ Comment | 주석 추가 (코드 변경X) |
-	| 📝 Docs | 문서 수정 |
-	| 🔀 Merge | Merge |
-	| ♻️ Misc | 기타 |
+	| ⬆️ add | 코드 제출 |
+	| 🛠️ fix | 틀린 부분 수정 |
+	| 🔨 refactor | 코드 리팩토링 |
+	| ✏️ comment | 주석 추가 (코드 변경X) |
+	| 📝 docs | 문서 수정 |
+	| 🔀 merge | Merge |
+	| ♻️ misc | 기타 |
 
 3. PR
 
@@ -40,7 +40,8 @@
 	🔥 매주 월요일에 한꺼번에 PR 합니다!
 
 ## 📌 규칙
-1. 매주 월요일, 목요일에 주제에 맞는 백준 2문제 풀기 + 프로그래머스 1문제
+1. ~~매주 월요일, 목요일에 주제에 맞는 백준 2문제 풀기 + 프로그래머스 1문제~~ <br>
+	랜덤 주제로 백준 2문제, 프로그래머스 2문제, SWEA 1문제
 
 2. 벌금
 
@@ -84,6 +85,8 @@
 ||| 10942 | [팰린드롬?](https://www.acmicpc.net/problem/10942) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/>|
 |<b>Week 9-2</b></br>(23.10.26 ~ )| 시뮬레이션 | 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/>|
 ||| 19236 | [청소년 상어](https://www.acmicpc.net/problem/19236) | <img src="https://static.solved.ac/tier_small/14.svg" height="25" align="center"/>|
+|<b>Week 10</b></br>(23.10.30 ~ )| - | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | <img src="https://static.solved.ac/tier_small/13.svg" height="25" align="center"/>|
+||| 14002 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | <img src="https://static.solved.ac/tier_small/12.svg" height="25" align="center"/>|
 
 
 
@@ -96,4 +99,11 @@
 |<b>Week 07</b> | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | Level 2 |
 |<b>Week 08</b> | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) | Level 2 |
 |<b>Week 09</b> | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | Level 2 |
+|<b>Week 10</b> | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | Level 2 |
+| | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | Level 3 |
 
+
+## 📌 SWEA
+|| 문제 |
+|:-:|:-:|
+| <b>Week 10</b> |[수열 편집](https://swexpertacademy.com/main/code/codeBattle/problemDetail.do?contestProbId=AX5MBiQqAbQDFASv&categoryId=AYnnOdjq4TwDFARi&categoryType=BATTLE&battleMainPageIndex=1)|
